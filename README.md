@@ -1,4 +1,4 @@
-The challenge (from https://mimi.io/en/challenge/)
+## The challenge (from https://mimi.io/en/challenge/)
 
 Two words are considered “friendly” if there exists a one to one mapping of letters between the two.
 
@@ -20,4 +20,4 @@ HHRGOE
 
 … contains 5 words that have at least one friend. 
 
-How many words are there in the list (words.txt) with at least one friend?
+How many words are there in the list ([words.txt](src/main/resources/words.txt)) with at least one friend?
